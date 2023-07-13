@@ -1,0 +1,29 @@
+/* form .form-group textarea{
+    width: 500px;
+    height:500px;
+    margin-left:50%;
+    margin-right:50%;
+    margin-top:40px;
+}
+
+form .form-group h3{
+    position: absolute;
+    top: 59px;
+    left: 700px;
+    bottom: 20px;
+    
+    size: 20px;;
+} */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1px;
+    height: 100vh; /* Ensures container takes full height of the viewport */
+  }
+.container h3{
+    position: relative;
+    top:0px;
+    left: 170px;
+}
